@@ -52,7 +52,7 @@ Tenho **20 anos** e opero na interseção entre desenvolvimento backend e inteli
 ### 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <a href="https://github.com/SEU_USUARIO_AQUI](https://github.com/willzri">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Wiu's Github Stats" height="180" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Langs" height="180" />
   </a>
